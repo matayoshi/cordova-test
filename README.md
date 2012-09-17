@@ -1,4 +1,4 @@
-phonegap-test
+cordova-test
 =============
 
-PhoneGap Test. Hello, World.
+Cordova Test. Hello, World.

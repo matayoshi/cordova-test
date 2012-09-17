@@ -1,4 +1,4 @@
-package nmtysh.phonegap.helloworld;
+package nmtysh.cordova.helloworld;
 
 import org.apache.cordova.DroidGap;
 
